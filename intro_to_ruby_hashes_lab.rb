@@ -31,6 +31,5 @@ end
 def update_counting_hash(hash, key)
  crayon = {"blue" => 3}
  crayon[:blue]
- 
- 
+ crayon[:yellow]
 end
