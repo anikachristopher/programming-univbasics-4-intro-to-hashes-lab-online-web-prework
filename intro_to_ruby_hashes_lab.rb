@@ -29,5 +29,11 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  
+ crayon = {
+   colour: "blue"
+   count: 3
+ }
+ crayon[:count]
+ 
+ 
 end
